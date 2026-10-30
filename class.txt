@@ -1,0 +1,3 @@
+game
+ad_close
+upgrade

@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# macOS
+.DS_Store
+
+# YOLO / Training
+runs/
+*.pt
+!yolov8n.pt
+preview/
+
+# Большие данные обучения — в репозиторий не заливаем
+images/
+screenshorts/
+labels/
+
+# IDE
+.vscode/
+*.swp
+*.swo
